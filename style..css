@@ -1,0 +1,73 @@
+/* div {
+        border: 1px solid grey;
+      }*/
+
+.rowCustom {
+  margin-left: 15%;
+  width: 100%;
+  margin: 5%;
+}
+
+.rowCustomsec {
+  width: 90vw;
+  margin-left: 40%;
+}
+
+.content__logo {
+  margin: 7%;
+}
+
+.content__logotwo {
+  margin: 1%;
+}
+
+.btn__first {
+  height: 4vh;
+  margin-left: 100%;
+}
+
+.first__text,
+.second__text {
+  font-size: smaller;
+  text-align: center;
+}
+
+.nav {
+  opacity: 0.7;
+  font-size: xx-small;
+  margin-top: 20px;
+}
+
+.nav-link {
+  color: rgb(17, 16, 17);
+}
+
+.card-text {
+  opacity: 0.7;
+  font-size: small;
+}
+
+.btn__last {
+  margin-left: 70%;
+}
+
+.button {
+  width: 40%;
+  height: 30%;
+  margin-top: -20px;
+  margin-right: 100%;
+}
+
+.card__last {
+  background-color: rgb(233, 101, 101);
+}
+
+.container {
+  border: 1px solid red;
+  background-color: rgb(243, 94, 83);
+}
+
+.form-label {
+  color: rgb(251, 251, 250);
+  font-size: large;
+}

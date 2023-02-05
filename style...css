@@ -1,0 +1,17 @@
+.rowCustom {
+  height: 20rem;
+}
+
+.text {
+  color: rgb(250, 248, 248);
+  text-align: center;
+}
+
+.borderGallery {
+  height: 32vh;
+}
+
+.borderBuyBox {
+  width: 39vw;
+  height: 24vh;
+}
